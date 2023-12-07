@@ -1,0 +1,15 @@
+/Users/Regina/Desktop/GB/Program language/task3.1/Example002/bin/Debug/net6.0/Example002
+/Users/Regina/Desktop/GB/Program language/task3.1/Example002/bin/Debug/net6.0/Example002.deps.json
+/Users/Regina/Desktop/GB/Program language/task3.1/Example002/bin/Debug/net6.0/Example002.runtimeconfig.json
+/Users/Regina/Desktop/GB/Program language/task3.1/Example002/bin/Debug/net6.0/Example002.dll
+/Users/Regina/Desktop/GB/Program language/task3.1/Example002/bin/Debug/net6.0/Example002.pdb
+/Users/Regina/Desktop/GB/Program language/task3.1/Example002/obj/Debug/net6.0/Example002.csproj.AssemblyReference.cache
+/Users/Regina/Desktop/GB/Program language/task3.1/Example002/obj/Debug/net6.0/Example002.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Regina/Desktop/GB/Program language/task3.1/Example002/obj/Debug/net6.0/Example002.AssemblyInfoInputs.cache
+/Users/Regina/Desktop/GB/Program language/task3.1/Example002/obj/Debug/net6.0/Example002.AssemblyInfo.cs
+/Users/Regina/Desktop/GB/Program language/task3.1/Example002/obj/Debug/net6.0/Example002.csproj.CoreCompileInputs.cache
+/Users/Regina/Desktop/GB/Program language/task3.1/Example002/obj/Debug/net6.0/Example002.dll
+/Users/Regina/Desktop/GB/Program language/task3.1/Example002/obj/Debug/net6.0/refint/Example002.dll
+/Users/Regina/Desktop/GB/Program language/task3.1/Example002/obj/Debug/net6.0/Example002.pdb
+/Users/Regina/Desktop/GB/Program language/task3.1/Example002/obj/Debug/net6.0/Example002.genruntimeconfig.cache
+/Users/Regina/Desktop/GB/Program language/task3.1/Example002/obj/Debug/net6.0/ref/Example002.dll
